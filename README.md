@@ -8,7 +8,7 @@ Live site: https://portfolio-rajeeb.vercel.app/
 4+ years of ETL development and data engineering experience in Banking & Finance. Informatica PowerCenter, CDIPC, IICS, Snowflake, Azure Data Factory, Oracle SQL, Python, Control-M.
 
 ## Projects
-- Financial Risk Data Mart, SunTrust (Truist Financial) — Jul 2022 – Oct 2025
+- Financial Risk Data Mart, Truist (SunTrust) — Jul 2022 – Oct 2025
 - CareFirst BlueCross BlueShield — Nov 2025 – Present
 
 ## Connect
